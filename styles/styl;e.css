@@ -1,8 +1,19 @@
 html {
-
+    text-align: justify;
 }
 body {
 
+}
+header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #cc0000;
+}
+#welcome-section {
+    height: 100vh;
+    
 }
 @media all and {
     
